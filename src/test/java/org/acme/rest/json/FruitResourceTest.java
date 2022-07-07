@@ -49,3 +49,6 @@ public class FruitResourceTest {
                         "description", containsInAnyOrder("Winter fruit", "Tropical fruit"));
     }
 }
+
+
+///solve
