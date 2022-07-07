@@ -7,6 +7,7 @@ public class LegumeResourceIT extends LegumeResourceTest {
 
     
     public  void LegumeResourceITtest(){
-
+        System.out.print("Hello");
+        System.out.println("World");
     }
 }
